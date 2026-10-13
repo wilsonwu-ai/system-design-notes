@@ -36,6 +36,11 @@ Check the notes here: https://pagefy.io/system-design/system-design-interview-by
  * [Chapter 27 - Digital Wallet](./27.%20%20Digital%20Wallet/)
  * [Chapter 28 - Stock Exchange](./28.%20Stock%20Exchange/)
 
+# Case Studies
+Real open-source systems walked through the same 4-step framework. These were added in this fork; the chapter notes above are from the original repository.
+
+ * [QuantMind - Design an Agent-Native Financial Knowledge Engine](./Case%20Studies/QuantMind/)
+
 
 # Additonal Resources
 
